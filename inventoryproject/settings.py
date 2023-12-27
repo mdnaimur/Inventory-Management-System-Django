@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'dashboard.apps.DashboardConfig',
     'user.apps.UserConfig',
     'crispy_forms',
+ 
 ]
 
 MIDDLEWARE = [
